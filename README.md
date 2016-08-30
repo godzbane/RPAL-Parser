@@ -1,7 +1,9 @@
 # RPAL-Parser
 A parser for the RPAL language, written in C++.
 
-HOW TO RUN: <switch list> <target filename>
+HOW TO RUN: Compile the project using the makefile. The input is in the form:
+
+(switch list) (target filename)
 
 SWITCHES:
 

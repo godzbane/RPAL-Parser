@@ -1,6 +1,9 @@
 # RPAL-Parser
 A parser for the RPAL language, written in C++.
 
+Project scope: https://www.cise.ufl.edu/class/cop5556sp16/project2.html
+RPAL phase structure grammar: https://www.cise.ufl.edu/class/cop5556sp16/rpal/rpal.grammar.pdf
+
 HOW TO RUN:
 
 Compile the project using the makefile. The input is in the form:
